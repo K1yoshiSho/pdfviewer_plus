@@ -2,9 +2,9 @@
 
 import 'dart:math';
 import 'package:flutter/material.dart';
+import 'package:pdf_config/pdf.dart';
 import 'package:pdfviewer_plus/pdfviewer.dart';
 import 'package:pdfviewer_plus/src/common/pdfviewer_helper.dart';
-import 'package:syncfusion_flutter_pdf/pdf.dart';
 import 'package:workspace_core/localizations.dart';
 import 'package:workspace_core/theme.dart';
 import 'bookmark_item.dart';

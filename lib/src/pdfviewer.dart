@@ -11,7 +11,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:syncfusion_flutter_pdf/pdf.dart';
+import 'package:pdf_config/pdf.dart';
 import 'package:workspace_core/localizations.dart';
 import 'package:workspace_core/theme.dart';
 

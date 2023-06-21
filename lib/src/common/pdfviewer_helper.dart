@@ -1,10 +1,10 @@
-import 'dart:io';
+// ignore_for_file: prefer_relative_imports
 
+import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:syncfusion_flutter_pdf/pdf.dart';
-
-import '../control/pdftextline.dart';
+import 'package:pdf_config/pdf.dart';
+import 'package:pdfviewer_plus/pdfviewer.dart';
 import 'mobile_helper.dart'
     if (dart.library.html) 'package:syncfusion_flutter_pdfviewer/src/common/web_helper.dart'
     as helper;

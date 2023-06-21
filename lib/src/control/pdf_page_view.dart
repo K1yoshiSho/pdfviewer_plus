@@ -3,9 +3,9 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:pdf_config/pdf.dart';
 import 'package:pdfviewer_plus/src/common/mobile_helper.dart';
 import 'package:pdfviewer_plus/src/pdfviewer.dart';
-import 'package:syncfusion_flutter_pdf/pdf.dart';
 import 'package:workspace_core/theme.dart';
 
 import '../common/pdfviewer_helper.dart';

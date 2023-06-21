@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:syncfusion_flutter_pdf/pdf.dart';
+import 'package:pdf_config/pdf.dart';
 
 /// Holds the details for the [SfPdfViewer.onPageChanged] callback,
 /// such as [newPageNumber], [oldPageNumber], [isFirstPage] and [isLastPage].

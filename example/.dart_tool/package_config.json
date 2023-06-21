@@ -146,6 +146,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "pdf_config",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/pdf_config-6ef7e8babbac82c4741f21364d3c465add25c371/",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "pdfviewer_plus",
       "rootUri": "../../",
       "packageUri": "lib/",
@@ -196,12 +202,6 @@
     {
       "name": "syncfusion_flutter_core",
       "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-21.2.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_pdf",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_pdf-21.2.10",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -320,7 +320,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-06-21T10:37:37.528786Z",
+  "generated": "2023-06-21T11:43:41.664855Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

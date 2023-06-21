@@ -1,6 +1,6 @@
 name: pdfviewer_plus
 description: Flutter PDF Viewer library is used to display a PDF document seamlessly and efficiently.
-version: 21.2.10
+version: 21.2.11
 homepage: https://github.com/syncfusion/flutter-widgets/tree/master/packages/syncfusion_flutter_pdfviewer
 
 environment:
@@ -31,7 +31,10 @@ dependencies:
     git:
       url: https://github.com/K1yoshiSho/workspace_flutter_core.git
       ref: main
-  syncfusion_flutter_pdf: ^21.2.10     
+  pdf_config:
+    git:
+      url: https://github.com/K1yoshiSho/pdf_config.git
+      ref: main
 
   url_launcher: ^6.1.0
 
