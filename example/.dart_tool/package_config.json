@@ -206,12 +206,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "syncfusion_pdfviewer_platform_interface",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_platform_interface-21.2.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "term_glyph",
       "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -320,7 +314,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-06-21T11:43:41.664855Z",
+  "generated": "2023-06-27T05:20:40.397981Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

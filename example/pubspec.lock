@@ -199,7 +199,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "21.2.11"
+    version: "21.2.12"
   petitparser:
     dependency: transitive
     description:
@@ -258,14 +258,6 @@ packages:
     description:
       name: syncfusion_flutter_core
       sha256: "8db8f55c77f56968681447d3837c10f27a9e861e238a898fda116c7531def979"
-      url: "https://pub.dev"
-    source: hosted
-    version: "21.2.10"
-  syncfusion_pdfviewer_platform_interface:
-    dependency: transitive
-    description:
-      name: syncfusion_pdfviewer_platform_interface
-      sha256: "08039ecdb8f79454fb367c6bf5a833846a666039415d2b5d76a7e59a5b3ff710"
       url: "https://pub.dev"
     source: hosted
     version: "21.2.10"
