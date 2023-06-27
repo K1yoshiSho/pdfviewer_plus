@@ -55,7 +55,7 @@ public class SyncfusionFlutterPdfViewerPlugin implements FlutterPlugin, MethodCa
 
   @Override
   public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
-    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "syncfusion_flutter_pdfviewer");
+    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "pdfviewer_plus");
     channel.setMethodCallHandler(this);
     context = flutterPluginBinding.getApplicationContext();
   }
@@ -71,7 +71,7 @@ public class SyncfusionFlutterPdfViewerPlugin implements FlutterPlugin, MethodCa
   // in the same class.
   @SuppressWarnings("deprecation")
   public static void registerWith(io.flutter.plugin.common.PluginRegistry.Registrar registrar) {
-    final MethodChannel channel = new MethodChannel(registrar.messenger(), "syncfusion_flutter_pdfviewer");
+    final MethodChannel channel = new MethodChannel(registrar.messenger(), "pdfviewer_plus");
     channel.setMethodCallHandler(new SyncfusionFlutterPdfViewerPlugin());
   }
 

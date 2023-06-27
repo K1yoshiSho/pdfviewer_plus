@@ -8,11 +8,11 @@ public class SwiftSyncfusionFlutterPdfViewerPlugin: NSObject, FlutterPlugin {
     // Document repository
     var documentRepo = [String: CGPDFDocument?]()
 
-    let dispatcher = DispatchQueue(label: "syncfusion_flutter_pdfviewer")
+    let dispatcher = DispatchQueue(label: "pdfviewer_plus")
 
     // Registers the SyncfusionFlutterPdfViewerPlugin
     public static func register(with registrar: FlutterPluginRegistrar) {
-        let channel = FlutterMethodChannel(name: "syncfusion_flutter_pdfviewer", binaryMessenger: registrar.messenger())
+        let channel = FlutterMethodChannel(name: "pdfviewer_plus", binaryMessenger: registrar.messenger())
         let instance = SwiftSyncfusionFlutterPdfViewerPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
