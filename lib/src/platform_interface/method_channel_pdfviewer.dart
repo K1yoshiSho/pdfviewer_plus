@@ -2,7 +2,6 @@
 
 import 'dart:async';
 import 'package:flutter/services.dart';
-import 'package:syncfusion_pdfviewer_platform_interface/pdfviewer_platform_interface.dart';
 import 'pdfviewer_platform_interface.dart';
 
 class MethodChannelPdfViewer extends PdfViewerPlatform {

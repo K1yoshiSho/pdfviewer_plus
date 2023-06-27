@@ -75,9 +75,9 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
@@ -87,9 +87,9 @@
     },
     {
       "name": "flutter_signaturepad",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/flutter_signaturepad-50599dc09e1bb6592e720ad733ba09ce2507c599/",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/flutter_signaturepad-3f568c5c07b322cfe4f49f3a3076ef490c8b53b1/",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
@@ -105,7 +105,7 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.0.0",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -153,7 +153,7 @@
     },
     {
       "name": "pdf_config",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/pdf_config-6ef7e8babbac82c4741f21364d3c465add25c371/",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/pdf_config-23fb3530ef8840018ffab696d23aab0e517357ac/",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -206,12 +206,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "syncfusion_flutter_core",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-21.2.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "term_glyph",
       "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -237,7 +231,7 @@
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.35",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.36",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -291,19 +285,19 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/win32-4.1.4",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "win32_registry",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-1.1.0",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "workspace_core",
-      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/workspace_flutter_core-91e14a893dbccc3c1c1ea35fe2c1f0e4d984210a/",
+      "rootUri": "file:///C:/Users/yelam/AppData/Local/Pub/Cache/git/workspace_flutter_core-14d4e233a5e0601a34acdcf09f06fb97b2e96c12/",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -320,7 +314,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-06-27T05:35:25.819773Z",
+  "generated": "2023-06-27T05:51:28.501308Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
