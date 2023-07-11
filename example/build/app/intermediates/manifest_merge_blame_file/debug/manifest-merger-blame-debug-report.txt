@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\Packages\syncfusion_flutter_pdfviewer\example\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->D:\Packages\syncfusion_flutter_pdfviewer\example\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->D:\Packages\pdfviewer_plus\example\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->D:\Packages\pdfviewer_plus\example\android\app\src\debug\AndroidManifest.xml:6:22-64
 15
 16    <application
 17        android:name="android.app.Application"
@@ -56,13 +56,13 @@
 53            android:value="2" />
 54
 55        <activity
-55-->[:url_launcher_android] D:\Packages\syncfusion_flutter_pdfviewer\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+55-->[:url_launcher_android] D:\Packages\pdfviewer_plus\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 56            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-56-->[:url_launcher_android] D:\Packages\syncfusion_flutter_pdfviewer\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+56-->[:url_launcher_android] D:\Packages\pdfviewer_plus\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 57            android:exported="false"
-57-->[:url_launcher_android] D:\Packages\syncfusion_flutter_pdfviewer\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+57-->[:url_launcher_android] D:\Packages\pdfviewer_plus\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 58            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-58-->[:url_launcher_android] D:\Packages\syncfusion_flutter_pdfviewer\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+58-->[:url_launcher_android] D:\Packages\pdfviewer_plus\example\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 59
 60        <uses-library
 60-->[androidx.window:window:1.0.0-beta04] C:\Users\yelam\.gradle\caches\transforms-3\6536a52ac3f71fa00116215b0f88bc0a\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40

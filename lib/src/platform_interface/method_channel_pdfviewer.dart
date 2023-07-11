@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'pdfviewer_platform_interface.dart';
 
 class MethodChannelPdfViewer extends PdfViewerPlatform {
-  final MethodChannel _channel = const MethodChannel('syncfusion_flutter_pdfviewer');
+  final MethodChannel _channel = const MethodChannel('pdfviewer_plus');
 
   /// Initializes the PDF renderer instance in respective platform by loading the PDF from the provided byte information.
   /// If success, returns page count else returns error message from respective platform

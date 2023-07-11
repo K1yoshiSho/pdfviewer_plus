@@ -5,11 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_signaturepad/signaturepad.dart';
 import 'package:pdf_config/pdf.dart';
+import 'package:pdfviewer_plus/src/common/mobile_helper.dart';
 import 'package:workspace_core/theme.dart';
 
 import '../../pdfviewer.dart';
-import '../common/mobile_helper.dart'
-    if (dart.library.html) 'package:syncfusion_flutter_pdfviewer/src/common/web_helper.dart' as helper;
 import '../common/pdfviewer_helper.dart';
 import 'pdf_checkbox.dart';
 import 'pdf_radio_button.dart';
@@ -284,9 +283,9 @@ class PdfPageViewState extends State<PdfPageView> {
   void initState() {
     _addColors();
     if (kIsDesktop && !widget.isMobileWebView) {
-      helper.preventDefaultMenu();
+      preventDefaultMenu();
       focusNode.addListener(() {
-        helper.hasPrimaryFocus = focusNode.hasFocus;
+        hasPrimaryFocus = focusNode.hasFocus;
       });
     }
     super.initState();

@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Packages\\syncfusion_flutter_pdfviewer\\example\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Packages\\pdfviewer_plus\\example\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -5,15 +5,13 @@ import 'package:flutter/material.dart';
 import 'package:pdf_config/pdf.dart';
 
 import '../control/pdftextline.dart';
-import 'mobile_helper.dart'
-    if (dart.library.html) 'package:syncfusion_flutter_pdfviewer/src/common/web_helper.dart'
-    as helper;
+import 'mobile_helper.dart';
 
 /// Indicates whether the current environment is running in Desktop
 bool kIsDesktop = kIsWeb || Platform.isMacOS || Platform.isWindows;
 
 /// Indicates whether the current environment is running in macOS
-bool kIsMacOS = helper.getPlatformType() == 'macos';
+bool kIsMacOS = getPlatformType() == 'macos';
 
 /// TextSelectionHelper for storing information of text selection.
 class TextSelectionHelper {
